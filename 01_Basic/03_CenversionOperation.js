@@ -37,8 +37,25 @@
 // let booleanIsLoggedIn=Boolean( isLoggedIn)
 // console.log(booleanIsLoggedIn);
 
-let someNumber=65
-let numberInString=String(someNumber)
-console.log(numberInString);
-console.log(typeof numberInString);
+// let someNumber=65
+// let numberInString=String(someNumber)
+// console.log(numberInString);
+// console.log(typeof numberInString);
+
+
+//--------OPERATIONS-----------------------------------//
+let value=8
+let negativeValue=-value
+// console.log(negativeValue);
+
+// console.log(2+2);//ADD
+// console.log(2-2);//SUB
+// console.log(2/2);//DIVIDE
+// console.log(2%2);//MODULO
+// console.log(2**2);//POWER
+
+let str1="Hello "
+let str2="Mohak"
+let str3=str1+str2
+console.log(str3);
 
